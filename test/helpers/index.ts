@@ -20,7 +20,7 @@ import {
   UniswapV3Staker,
   IUniswapV3Pool,
   TestIncentiveId,
-} from '../../typechain'
+} from '../../typechain/'
 import { HelperTypes } from './types'
 import { ActorFixture } from '../shared/actors'
 import { mintPosition } from '../shared/fixtures'
